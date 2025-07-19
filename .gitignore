@@ -2,8 +2,8 @@
 /node_modules
 /dist
 /plugin_base_file
-pdf/*
-screenshot/*
+/pdf/*
+/screenshot/*
 
 # local env files
 .env.local
