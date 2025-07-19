@@ -1,5 +1,5 @@
 {
-  "name": "puppeteer-screenshot-pdf",
+  "name": "puppeteer-pdf-screenshot",
   "version": "1.0.0",
   "main": "cli.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "author": "Asiqur Rahman",
   "license": "GPL-3.0",
-  "description": "Generate PDFs from webpages using Puppeteer",
+  "description": "Generate PDFs or Screenshot from webpages using Puppeteer",
   "dependencies": {
     "node-notifier": "^10.0.1",
     "puppeteer": "^24.14.0"
